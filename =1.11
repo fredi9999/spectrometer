@@ -1,0 +1,6 @@
+Collecting scipy
+  Using cached scipy-1.16.2-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.metadata (62 kB)
+Requirement already satisfied: numpy<2.6,>=1.25.2 in ./.venv/lib/python3.12/site-packages (from scipy) (2.3.3)
+Using cached scipy-1.16.2-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (35.7 MB)
+Installing collected packages: scipy
+Successfully installed scipy-1.16.2
